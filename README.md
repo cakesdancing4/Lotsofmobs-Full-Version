@@ -241,4 +241,4 @@ This repository serves as the official landing page for LotsOfMobs. The software
 **Get the most recent version of LotsOfMobs today!**
 
 ---
-**Last updated:** 2026-10-09 17:18:45 UTC
+**Last updated:** 2026-10-09 22:15:38 UTC
